@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace EF
+namespace EFICS
 {
     internal class Program
     {
@@ -37,7 +37,7 @@ namespace EF
                 {
                     Console.WriteLine(user.Id);
                 }
-            }
+            }             
         }
     }
 }

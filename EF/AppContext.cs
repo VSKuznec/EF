@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 
-namespace EF
+namespace EFICS
 {
     public class AppContext : DbContext
     {
